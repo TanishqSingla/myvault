@@ -1,0 +1,1 @@
+Each library or framework that facilitates some form of asynchronous code will choose a runtime to build on top of. The work of the runtime is to choose its own way of handling threads and managing work (tasks) behind the scenes.

@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "4050a63fc42d4259",
+    "type": "split",
+    "children": [
+      {
+        "id": "52869acf939f5778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d3b3933cf3b0d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Management Systems/SQL/Aggregates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d156c5af9f3463b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d9a233510785ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f6f114ba24d3906",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77e78c1666e728d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ac57cd6cf14900e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cae48af2d19a7c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "193ae9097f67d52c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd9d5d8f3a6d870",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database Management Systems/SQL/Aggregates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0614383ef928a86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Database Management Systems/SQL/Aggregates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f88e4b20cc02c590",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "129989dd8389eab4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database Management Systems/SQL/Aggregates.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7d3b3933cf3b0d1",
+  "lastOpenFiles": [
+    "Database Management Systems/Terms/Relational Terms/Instance.md",
+    "Database Management Systems/Terms/Relational Terms/Attribute (Column).md",
+    "Database Management Systems/Terms/Relational Terms/Database.md",
+    "Database Management Systems/Terms/Relational Terms/Schema.md",
+    "Database Management Systems/Terms/Relational Terms/Tuple (Row).md",
+    "Database Management Systems/Terms/Relational Terms/Relations (Tables).md",
+    "Database Management Systems/SQL/DDL.md",
+    "Database Management Systems/SQL/SQL Language.md",
+    "Database Management Systems/SQL/Aggregates.md",
+    "Database Management Systems/SQL/DML.md",
+    "Networks/HTTP/HTTP.md",
+    "Database Management Systems/RDBMS.md",
+    "Database Management Systems/SQL",
+    "General Terms/string.md",
+    "Database Management Systems/Terms/Relational Terms",
+    "Database Management Systems/Terms",
+    "Language/C++/standard library functions/getline(string).md",
+    "Language/C++/File Handling/Reading a file.md",
+    "Database Management Systems/What goes around comes around/2. IMS Era.md",
+    "Database Management Systems/5 main compoennt",
+    "Database Management Systems/Images/5 Parts of DMBS.png",
+    "Database Management Systems/What goes around comes around/3. CODASYL Era.md",
+    "Database Management Systems/Images/CODASYL Network.png",
+    "Database Management Systems/What goes around comes around/1. Introduction.md",
+    "Database Management Systems/Images/IMS-Fig-1.png",
+    "Database Management Systems/Imag.md",
+    "Database Management Systems/Images",
+    "IMS-Fig-1.png.md",
+    "Links.md",
+    "Database Management Systems/What goes around comes around",
+    "Database Management Systems",
+    "Books/Rust Web Development/Asynchronous Runtime in Rust.md",
+    "Books/R.md",
+    "Books/Rust Web Development",
+    "Books",
+    "General Terms/delimiter.md",
+    "General Terms",
+    "getline(string).md",
+    "Language/Untitled.md"
+  ]
+}
