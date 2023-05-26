@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88ec1a1bafb42866",
+  "active": "0f6f114ba24d3906",
   "lastOpenFiles": [
+    "_config.yml",
     "Networks/HTTP/HTTP.md",
     "index.md",
     "Untitled",
@@ -198,7 +199,6 @@
     "Books/R.md",
     "Books/Rust Web Development",
     "Books",
-    "General Terms/delimiter.md",
-    "getline(string).md"
+    "General Terms/delimiter.md"
   ]
 }
