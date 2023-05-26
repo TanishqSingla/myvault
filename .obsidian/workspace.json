@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management Systems/SQL/Aggregates.md",
+                "file": "Networks/HTTP/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ec1a1bafb42866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Management Systems/SQL/Aggregates.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Management Systems/SQL/Aggregates.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Management Systems/SQL/Aggregates.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7d3b3933cf3b0d1",
+  "active": "88ec1a1bafb42866",
   "lastOpenFiles": [
+    "Networks/HTTP/HTTP.md",
+    "index.md",
+    "Untitled",
+    "Database Management Systems/SQL/Aggregates.md",
     "Database Management Systems/Terms/Relational Terms/Instance.md",
     "Database Management Systems/Terms/Relational Terms/Attribute (Column).md",
     "Database Management Systems/Terms/Relational Terms/Database.md",
@@ -156,9 +173,7 @@
     "Database Management Systems/Terms/Relational Terms/Relations (Tables).md",
     "Database Management Systems/SQL/DDL.md",
     "Database Management Systems/SQL/SQL Language.md",
-    "Database Management Systems/SQL/Aggregates.md",
     "Database Management Systems/SQL/DML.md",
-    "Networks/HTTP/HTTP.md",
     "Database Management Systems/RDBMS.md",
     "Database Management Systems/SQL",
     "General Terms/string.md",
@@ -184,8 +199,6 @@
     "Books/Rust Web Development",
     "Books",
     "General Terms/delimiter.md",
-    "General Terms",
-    "getline(string).md",
-    "Language/Untitled.md"
+    "getline(string).md"
   ]
 }
